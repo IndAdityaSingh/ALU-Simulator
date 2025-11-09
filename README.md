@@ -57,16 +57,3 @@ This tool helps visualize base conversions and simulate digital arithmetic and l
 - Alerts user in case of **invalid inputs** or **base mismatches**.
 
 ---
-
-## 🖼️ Screenshots
-
-| Converter Tab | ALU Simulator |
-|----------------|----------------|
-| ![Converter Screenshot](assets/converter_tab.png) | ![ALU Screenshot](assets/alu_tab.png) |
-
-*(Add screenshots in an `assets/` folder in your repo.)*
-
----
-
-## 📂 Project Structure
-
